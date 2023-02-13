@@ -1,2 +1,2 @@
 # sweet-memory
-explore anything
+Explore anything
