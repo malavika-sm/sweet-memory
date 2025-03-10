@@ -16,4 +16,5 @@ Designed to distinguish between recyclable, non-recyclable and hazardous materia
 
 
 #Fake news Detection:
+
 Techniques used: NLP, Text Classification, Bidirectional Recurrent Neural Networks (Bi-RNN), TF-IDF, Sentiment Analysis. 
