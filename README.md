@@ -1,7 +1,7 @@
 # sweet-memory
 Explore anything.
 
-# Cloud Threat Detection:
+# Cloud Threat Detection using GeoLocation:
 Techniques: 
 Machine Learning (PCA, Naïve Bayes), Anomaly Detection (Autoencoders), Real-time IP Geolocation using Geocoding API, Threat Mapping. To classify threats and identify risks based on IP Addresses.
 
