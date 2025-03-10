@@ -15,8 +15,8 @@ IoT, Image Processing, Transfer Learning (YOLO, EfficientNet, ResNet), Python, A
 Designed to distinguish between recyclable, non-recyclable and hazardous materials. Implemented servo-controlled sorting for efficient disposal, promoting sustainability and aligning with SDG Goal 11.
 
 
-# Anaemia Detection (using Image Processing):
-The dataset used in this system consists of 42 images taken manually by us. It has images of people’s eye which is used for detecting anaemia using conjunctiva. 
+# Anaemia Detection:
+The dataset used in this system consists of 42 images taken manually by us. It has images of people’s eye which is used for detecting anaemia using conjunctiva by means of Image Processing. 
 
 Dataset: https://photos.app.goo.gl/dbqut6VFm7E2uEwJA 
 
