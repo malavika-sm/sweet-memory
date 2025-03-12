@@ -3,7 +3,8 @@ Explore anything.
 
 # Cloud Threat Detection using GeoLocation:
 Techniques: 
-Machine Learning (PCA, Naïve Bayes), Anomaly Detection (Autoencoders), Real-time IP Geolocation using Geocoding API, Threat Mapping. To classify threats and identify risks based on IP Addresses.
+Machine Learning (Naïve Bayes classifier), Feature extraction (PCA), Anomaly Detection (Autoencoder), Real-time IP Geolocation Mapping, Threat Region Tagging (Fuzzy C-Means Clustering). 
+To classify threats and identify risks based on IP Addresses.
 
 Dataset: https://www.kaggle.com/datasets/dasgroup/rba-dataset/data?select=rba-dataset.csv
 
@@ -22,7 +23,8 @@ Dataset: https://photos.app.goo.gl/dbqut6VFm7E2uEwJA
 
 
 # Fake news Detection:
-Techniques: NLP, Bag of Words (BoW), TF-IDF, Sentiment Analysis, Named Entity Recognition (NER), Bidirectional Long Short Term Memory (Bi-LSTM).
+Techniques: 
+NLP, Bag of Words (BoW), TF-IDF, Sentiment Analysis, Named Entity Recognition (NER), Bidirectional Long Short Term Memory (Bi-LSTM).
 
 The dataset used comprises of 4 different sources, with more than millions of rows, to give more precise output using rich vocabulary of words on a specified domain.
 
