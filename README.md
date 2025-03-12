@@ -22,7 +22,7 @@ Dataset: https://photos.app.goo.gl/dbqut6VFm7E2uEwJA
 
 
 # Fake news Detection:
-Techniques: NLP, Text Classification, TF-IDF, Sentiment Analysis, Named Entity Recognition (NER), Bidirectional Long Short Term Memory (Bi-LSTM).
+Techniques: NLP, Bag of Words (BoW), TF-IDF, Sentiment Analysis, Named Entity Recognition (NER), Bidirectional Long Short Term Memory (Bi-LSTM).
 
 The dataset used comprises of 4 different sources, with more than millions of rows, to give more precise output using rich vocabulary of words on a specified domain.
 
