@@ -22,7 +22,7 @@ Dataset: https://photos.app.goo.gl/dbqut6VFm7E2uEwJA
 
 
 # Fake news Detection:
-Techniques: NLP, Text Classification, Bidirectional Recurrent Neural Networks (Bi-RNN), TF-IDF, Sentiment Analysis. 
+Techniques: NLP, Text Classification, TF-IDF, Sentiment Analysis, Named Entity Recognition (NER), Bidirectional Long Short Term Memory (Bi-LSTM).
 The dataset used comprises of 4 different sources, with more than millions of rows, to give more precise output using rich vocabulary of words on a specified domain.
 
 Datasets: https://www.kaggle.com/c/fake-news/data, https://www.kaggle.com/datasets/emineyetm/fake-news-detectiondatasets, https://www.kaggle.com/datasets/sonalgarg174/ifnd-dataset, https://www.kaggle.com/datasets/therohk/india-headlines-newsdataset
